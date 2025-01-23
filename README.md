@@ -1,5 +1,8 @@
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/andresinho20049/dockerized-jenkins/blob/main/README.pt-br.md)
+
 # Dockerized Jenkins Project
 This is a Dockerized Jenkins project that uses Dockerfile, Docker Compose, and Containerd to run a self-contained Jenkins instance.
+
 
 ## Overview
 The goal of this project is to create a Docker image for Jenkins that can be easily deployed and managed in a cloud or on-premises environment. The image includes the following components:
