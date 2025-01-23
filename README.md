@@ -7,7 +7,7 @@ The goal of this project is to create a Docker image for Jenkins that can be eas
 * **Dockerfile**: The main Dockerfile used to build the base image.
 * **Docker-Compose**: A docker compose with the user and volume privilege settings to allow running docker commands in pipelines, for example: docker build -t {image}
 
-![Preview](https://github.com/andresinho20049/dockerized-jenkins/blob/main/media/preview.gif)
+![Preview](https://github.com/andresinho20049/dockerized-jenkins/blob/main/preview.gif)
 
 ## Getting Started
 1. Clone this repository: `git clone https://github.com/andresinho20049/dockerized-jenkins.git`
